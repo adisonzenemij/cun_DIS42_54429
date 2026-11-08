@@ -9,7 +9,7 @@ export const content = {
   founderRole: 'Desarrollador de software full stack',
   education: 'Estudiante de Ingeniería de Sistemas, Ingeniería de Software y Ciencia de Datos.',
   motivation: 'Engineering Code nace de una dificultad que encuentro al desarrollar: construir software requiere orden, sin importar el tamaño del proyecto. Quiero organizar el proceso completo de construcción y entrega para resolver problemas reales.',
-  photoUrl: '', logoUrl: '',
+  photoUrl: 'fundador.jpeg', logoUrl: '',
   contact: { email: '', phone: '', linkedin: '' },
   price: '$100.000', currency: 'COP / mes',
   pilot: 'Hasta 5 cuentas', trial: '14 días de prueba guiada',
