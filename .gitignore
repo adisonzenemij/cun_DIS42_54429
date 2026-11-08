@@ -10,6 +10,7 @@
 /node_modules
 npm-debug.log
 yarn-error.log
+/.npm-cache
 
 # IDEs and editors
 .idea/
@@ -83,3 +84,4 @@ sonar-project.properties
 .vscode/
 vs.code-workspace
 workspace.bat
+.npm-cache/
