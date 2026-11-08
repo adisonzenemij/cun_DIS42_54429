@@ -20,7 +20,9 @@
             "tsConfig": "tsconfig.app.json",
             "stylePreprocessorOptions": {
               "sass": {
-                "silenceDeprecations": ["import"]
+                "silenceDeprecations": [
+                  "import"
+                ]
               }
             },
             "assets": [
@@ -35,6 +37,7 @@
           },
           "configurations": {
             "production": {
+              "outputPath": "dist/dis42_54429_prod",
               "budgets": [
                 {
                   "type": "initial",
@@ -76,4 +79,3 @@
     }
   }
 }
-
